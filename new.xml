@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <name>Anastasiia</name>
+  <surname>Antipina</surname>
+  <age>32</age>
+  <quantityPets>1</quantityPets>
+  <pet>
+    <species>cat</species>
+    <race>shelter</race>
+    <name>Odin</name>
+  </pet>
+<desiredSalary>
+           <Salary>1500</Salary>
+           <Salary>2000</Salary>
+           <Salary>3000</Salary>
+ </desiredSalary>
