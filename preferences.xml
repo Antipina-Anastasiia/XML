@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <favorite>
+    <movie>The Silence of the Lambs</movie>
+    <serial>The office</serial>
+    <food>roast beef</food>
+    <season>summer</season>
+  </favorite>
+  <country_for_visit>New Zealand</country_for_visit>
+</root>

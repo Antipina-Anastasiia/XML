@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+    <theoryOfSoftwareTesting>
+        <theory>SDLC</theory>
+        <theory>STLC</theory>
+        <theory>тестовая документация</theory>
+        <theory>виды и методы тестирования</theory>
+        <theory>клиент-серверная архитектура</theory>
+    </theoryOfSoftwareTesting>
+    <HTTP>
+        <http>структура ответов-запросов</http>
+        <http>коды ответов</http>
+        <http>методы запросов</http>
+    </HTTP>
+    <formatsForData>
+        <format>JSON</format>
+        <format>XML</format>
+    </formatsForData>
+    <API>
+        <api>Postman</api>
+        <api>JS</api>
+        <api>автотесты API</api>
+    </API>
+    <DevTools>
+        <browser>Google Chrome</browser>
+        <browser>FireFox</browser>
+    </DevTools>
+    <MobileTesting>
+        <mobile>особенности</mobile>
+        <mobile>сборка приложений IOS/Android</mobile>
+        <mobile>ADB</mobile>
+    </MobileTesting>
+    <Terminal>
+         <Linux>базовые команды</Linux>
+         <Linux>основы bush скриптинга</Linux>
+         <Linux>работа с Git Hub</Linux>
+    </Terminal>
+    <DataBase>
+        <DB>основы SQL</DB>
+        <DB>Postgres</DB>
+        <DB>Redis</DB>
+    </DataBase>
+    <Jmeter>
+        <jm>Базовые знания о нагрузочном тестировании</jm>
+        <jm>spike testing</jm>
+    </Jmeter>
+    <Puthon>
+        <P>основа языка</P>
+        <P>создание клиент-сервреного приложения</P>
+    </Puthon>
+</root>
